@@ -1,0 +1,11 @@
+C:\Users\marcu\Desktop\GitTest\KevinsBadRumsMatta\KevinLuktar\KevinLuktar\bin\Debug\netcoreapp3.0\KevinLuktar.exe
+C:\Users\marcu\Desktop\GitTest\KevinsBadRumsMatta\KevinLuktar\KevinLuktar\bin\Debug\netcoreapp3.0\KevinLuktar.deps.json
+C:\Users\marcu\Desktop\GitTest\KevinsBadRumsMatta\KevinLuktar\KevinLuktar\bin\Debug\netcoreapp3.0\KevinLuktar.runtimeconfig.json
+C:\Users\marcu\Desktop\GitTest\KevinsBadRumsMatta\KevinLuktar\KevinLuktar\bin\Debug\netcoreapp3.0\KevinLuktar.runtimeconfig.dev.json
+C:\Users\marcu\Desktop\GitTest\KevinsBadRumsMatta\KevinLuktar\KevinLuktar\bin\Debug\netcoreapp3.0\KevinLuktar.dll
+C:\Users\marcu\Desktop\GitTest\KevinsBadRumsMatta\KevinLuktar\KevinLuktar\bin\Debug\netcoreapp3.0\KevinLuktar.pdb
+C:\Users\marcu\Desktop\GitTest\KevinsBadRumsMatta\KevinLuktar\KevinLuktar\obj\Debug\netcoreapp3.0\KevinLuktar.csprojAssemblyReference.cache
+C:\Users\marcu\Desktop\GitTest\KevinsBadRumsMatta\KevinLuktar\KevinLuktar\obj\Debug\netcoreapp3.0\KevinLuktar.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\GitTest\KevinsBadRumsMatta\KevinLuktar\KevinLuktar\obj\Debug\netcoreapp3.0\KevinLuktar.AssemblyInfo.cs
+C:\Users\marcu\Desktop\GitTest\KevinsBadRumsMatta\KevinLuktar\KevinLuktar\obj\Debug\netcoreapp3.0\KevinLuktar.dll
+C:\Users\marcu\Desktop\GitTest\KevinsBadRumsMatta\KevinLuktar\KevinLuktar\obj\Debug\netcoreapp3.0\KevinLuktar.pdb
